@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+  <div>
+
+    
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Web</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<h1>
+  THE PATCHWORK UNIVERSE
+  <br>
+  A world-building project
+</h1>
+
+
+  <p1 class="p1">
+    This is patchwork, a place for creators to thrive. Here you can look at new ideas and share your own. Use the buttons bellow too navigate to where you want to go.
+  </p1>
+  <br>
+  <br>
+  <br>
+  <a href="Gallery.html">
+  <button class="button">Gallery</button>
+   </a> 
+  <a href="Generalinfo.html">
+  <button class="button">Info</button>
+   </a> 
+  <a href="password.html">
+  <button class="button">Make something new</button>
+   </a> 
+    <a href="Stories.html">
+  <button class="button">Stories</button>
+   </a> 
+</div>
+</html>
