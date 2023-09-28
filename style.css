@@ -7,7 +7,7 @@
     width: 60%;
     min-width: 200px;
     max-width: 600px;
-    font-family: fantasy;
+    font-family: cursive;
     border-radius: 8px;
   }
   .button3:hover{
@@ -21,7 +21,7 @@
     background-color: black;
     
     text-align:center;
-    font-family: fantasy;
+    font-family: cursive;
   
   }
   .password{
@@ -58,7 +58,7 @@
     padding: 14px 28px;
     background-color: #3109fb;
     color: black;
-    font-family: fantasy;
+    font-family: cursive;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border-radius: 8px;
   }
@@ -99,7 +99,7 @@
     background-color: gray;
     padding: 10px 15px;
     width: 60%;
-    font-family: fantasy;
+    font-family: cursive;
     min-width: 200px;
     max-width: 600px;
     border-radius: 8px;
