@@ -2,16 +2,16 @@
     text-align: center;
     font-size: 10;
     transition-duration: 0.3;
-    background-color: #4a10d1;
+    background-color: #4c0c67;
     padding: 10px 15px;
     width: 60%;
     min-width: 200px;
     max-width: 600px;
-    font-family: fantasy;
+    font-family: cursive;
     border-radius: 8px;
   }
   .button3:hover{
-    background-color: #8495e6;
+    background-color: #eaadfa;
     border-radius: 8px;
     
   }
@@ -21,7 +21,7 @@
     background-color: black;
     
     text-align:center;
-    font-family: fantasy;
+    font-family: cursive;
   
   }
   .password{
@@ -34,7 +34,6 @@
     text-align: center;
     line-height: 260px;
     background-color: black;
-    background-image: url("https://t1.gstatic.cofile:///media/fuse/drivefs-74b01f42b5ce1da84f2e761213f16bbc/root/download%20(8).jpegm/images?q=tbn:ANd9GcRfT4KQX6_fSTaH4kn3150-k7ROOINaDICbnfbVeJ9gA1pkgagw");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     
@@ -42,7 +41,7 @@
   
   
   .p1{
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 20px;
     
   }
@@ -56,15 +55,15 @@
     border-color: #4c4c94;
     font-size: 24px;
     padding: 14px 28px;
-    background-color: #3109fb;
+    background-color: #21126c;
     color: black;
-    font-family: fantasy;
+    font-family: cursive;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border-radius: 8px;
   }
   
   .button:hover {
-    background-color: #f7f3f3;
+    background-color: #686868;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
     border-radius: 8px;
   
@@ -77,14 +76,14 @@
   
   .button2{
     transition-duration: 0.4s;
-    border-color: blue ;
+    border-color: rgb(29, 29, 99) ;
     position: absolute;
     font-size: 30px;
     font-family: fantasy;
     padding: 14px 28px;
     top: 10px;
     left: 10px;
-    background-color: rgb(18, 207, 201);
+    background-color: rgb(16, 105, 102);
     border-radius: 8px;
   }
   .button2:hover{
@@ -99,7 +98,7 @@
     background-color: gray;
     padding: 10px 15px;
     width: 60%;
-    font-family: fantasy;
+    font-family: cursive;
     min-width: 200px;
     max-width: 600px;
     border-radius: 8px;
